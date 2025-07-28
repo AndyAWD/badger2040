@@ -1,7 +1,7 @@
-mustelid inc
-H. Badger
-RP2040
-2MB Flash
-E ink
-296x128px
+DevFest Kaohsiung 2025
+Andy Dai
+GDG Kaohsiung
+
+www.andyawd.com.tw
+
 /badges/badge.jpg
