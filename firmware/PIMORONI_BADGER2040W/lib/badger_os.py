@@ -66,6 +66,8 @@ def state_launch():
     app = state_running()
     if app is not None and app != "launcher":
         launch(app)
+    elif app == "launcher":
+        launch("/examples/devfest")
 
 
 def state_delete(app):
